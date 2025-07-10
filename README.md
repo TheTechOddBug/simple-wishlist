@@ -123,9 +123,9 @@ node server.js
 <div align="center">
 <a href="https://www.star-history.com/#ajb3932/simple-wishlist&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ajb3932/immich-partner-sharing&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ajb3932/immich-partner-sharing&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ajb3932/immich-partner-sharing&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ajb3932/simple-wishlist&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ajb3932/simple-wishlist&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ajb3932/simple-wishlist&type=Date" />
  </picture>
 </a>
 </div>  
